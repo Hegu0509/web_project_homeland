@@ -6,7 +6,6 @@ p {
 .header {
   display: flex;
   flex-direction: column;
-  width: 984px;
   position: relative;
   margin: 34px 0 92px;
 }
